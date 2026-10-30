@@ -15,7 +15,7 @@
 
 <p align="left">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMATeixeira&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=VictorMATeixeira&layout=donut-example&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorMATeixeira&theme=tokyonight" />
 </p>
 ---
 
