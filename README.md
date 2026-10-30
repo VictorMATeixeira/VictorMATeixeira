@@ -14,8 +14,8 @@
 ### 📊 Estatísticas no GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-api-py.vercel.app/api/top-langs/?username=VictorMATeixeira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <img height="165" src="https://github-readme-stats-api-py.vercel.app/api?username=VictorMATeixeira&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMATeixeira&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorMATeixeira&theme=tokyonight" />
 </p>
 ---
 
